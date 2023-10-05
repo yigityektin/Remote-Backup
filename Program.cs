@@ -13,7 +13,7 @@ using System.Security.Cryptography;
 using System.Threading;
 using System.Web;
 
-namespace ConsoleApp1
+namespace RemoteBackup
 {
     class Program
     {
